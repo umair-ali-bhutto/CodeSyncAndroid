@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CodeSync</string>
+    <string name="share_key_hint">Enter share key</string>
+    <string name="open_share">Open Share</string>
+    <string name="paste">Paste</string>
+</resources>
